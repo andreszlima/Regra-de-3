@@ -121,7 +121,7 @@
             // time_lbl2
             // 
             this.time_lbl2.AutoSize = true;
-            this.time_lbl2.Location = new System.Drawing.Point(267, 16);
+            this.time_lbl2.Location = new System.Drawing.Point(257, 16);
             this.time_lbl2.Name = "time_lbl2";
             this.time_lbl2.Size = new System.Drawing.Size(40, 13);
             this.time_lbl2.TabIndex = 39;
@@ -264,9 +264,11 @@
             this.Controls.Add(this.textBox3);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form2";
             this.Text = "Cálculo com prefixo de notação";
+            this.TopMost = true;
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Form2_FormClosed);
             this.ResumeLayout(false);
             this.PerformLayout();
