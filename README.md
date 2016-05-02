@@ -2,4 +2,4 @@
 
 Clique [aqui](https://github.com/andreszlima/Regra-de-3/releases/latest) para ir para a página de download da versão atualizada.
 
-Caso haja alguma dúvida, veja a [wiki](https://github.com/andreszlima/Regra-de-3/wiki/Principal).
+Caso haja alguma dúvida e/ou queira ver algumas imagens da calculadora, veja a [wiki](https://github.com/andreszlima/Regra-de-3/wiki/Principal).
