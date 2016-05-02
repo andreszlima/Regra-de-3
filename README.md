@@ -1,4 +1,4 @@
 # Regra-de-3
 Calculadora para regra de 3 com notação científica
 
-Para qualquer dúvida, veja a wiki.
+Para qualquer dúvida, veja a [wiki](https://github.com/andreszlima/Regra-de-3/wiki).
